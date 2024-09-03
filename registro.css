@@ -1,0 +1,24 @@
+#bruh{
+    margin-top: 100px;
+    text-align: center;
+    left: 550px;
+    width: 100px;
+    position: absolute;
+
+}
+p{
+    color:cornflowerblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+h2{
+    color:chartreuse;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+body{
+    background-image: url(registro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

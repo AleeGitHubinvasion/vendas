@@ -1,0 +1,21 @@
+body{
+    background-image: url(pinicial.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#compra{
+  margin: 10px;
+  border: 30px;
+  left: 400px;
+  width: 180px;
+  margin-top: 75px;
+  color:darkslategray;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+h1{
+    text-align: center;
+    color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
